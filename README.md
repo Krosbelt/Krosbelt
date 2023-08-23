@@ -21,7 +21,7 @@
 </em></p>
 
 <h2>🌱 About me</h2>
-- 💬 I’m currently studying at the Simplon & Educamas Bootcamp as a Web Developer Full Stack
+- 💬 Graduated: Simplon & Educamas Bootcamp as a Web Developer Full Stack
 <br/>
 - 🔭 I am passionate about technology to explore new solutions, and learn every day.
 
